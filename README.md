@@ -25,7 +25,8 @@ Provide instructions on how to use your application.
 Provide instructions on how others can contribute to your project.
 <img width="954" alt="Screenshot 2024-04-17 205917" src="https://github.com/atul0917/ImageBasedUserRegistration/assets/121960163/7afecaa7-d426-429f-a6d3-3cd3def11f59">
 
-<img width="425" alt="Screenshot 2024-04-17 223712" src="https://github.c<img width="398" alt="Screenshot 2024-04-17 223731" src="https://github.com/atul0917/ImageBasedUserRegistration/assets/121960163/814f1275-e61d-4df9-97dc-85bf8eec883c">
-om/atul0917/ImageBasedUserRegistration/assets/121960163/df07a6b9-ec81-4bd1-badb-f136a7054626">
+<img width="425" alt="Screenshot 2024-04-17 223712" src="https://github.com/atul0917/ImageBasedUserRegistration/assets/121960163/7b812587-e508-494c-b8fa-9bd9f38b95fd">
 
-![Uploading Screenshot 2024-04-17 223731.png…]()
+<img width="398" alt="Screenshot 2024-04-17 223731" src="https://github.com/atul0917/ImageBasedUserRegistration/assets/121960163/849b07d3-1b17-4764-af8b-174be87e58eb">
+
+
