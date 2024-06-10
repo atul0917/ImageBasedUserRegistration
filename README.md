@@ -20,9 +20,8 @@ Provide instructions on how to set up and run your project locally.
 
 Provide instructions on how to use your application.
 
-## Contributing
+## ScreenShots
 
-Provide instructions on how others can contribute to your project.
 <img width="954" alt="Screenshot 2024-04-17 205917" src="https://github.com/atul0917/ImageBasedUserRegistration/assets/121960163/7afecaa7-d426-429f-a6d3-3cd3def11f59">
 
 <img width="425" alt="Screenshot 2024-04-17 223712" src="https://github.com/atul0917/ImageBasedUserRegistration/assets/121960163/7b812587-e508-494c-b8fa-9bd9f38b95fd">
